@@ -1,0 +1,152 @@
+[
+    {
+        "classification": "positive",
+        "comment_id": 1,
+        "polarity_score": 1,
+        "text": "It looks great!"
+    },
+    {
+        "classification": "positive",
+        "comment_id": 2,
+        "polarity_score": 0.5,
+        "text": "Love it."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 3,
+        "polarity_score": 1,
+        "text": "Awesome."
+    },
+    {
+        "classification": "neutral",
+        "comment_id": 4,
+        "polarity_score": 0,
+        "text": "Well done!"
+    },
+    {
+        "classification": "positive",
+        "comment_id": 5,
+        "polarity_score": 0.16666666666666666,
+        "text": "Looks decent."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 6,
+        "polarity_score": 0.2857142857142857,
+        "text": "What you did was right."
+    },
+    {
+        "classification": "neutral",
+        "comment_id": 7,
+        "polarity_score": 0,
+        "text": "Thumbs up."
+    },
+    {
+        "classification": "neutral",
+        "comment_id": 8,
+        "polarity_score": 0,
+        "text": "Like it a lot!"
+    },
+    {
+        "classification": "positive",
+        "comment_id": 9,
+        "polarity_score": 0.7,
+        "text": "Good work."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 10,
+        "polarity_score": 0.3333333333333333,
+        "text": "Luckily you did it."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 11,
+        "polarity_score": 0.8,
+        "text": "Proud of you."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 12,
+        "polarity_score": 0.5,
+        "text": "Enjoy!"
+    },
+    {
+        "classification": "positive",
+        "comment_id": 13,
+        "polarity_score": 1,
+        "text": "It looks great! It looks great!"
+    },
+    {
+        "classification": "positive",
+        "comment_id": 14,
+        "polarity_score": 0.75,
+        "text": "It looks great! Love it."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 15,
+        "polarity_score": 1,
+        "text": "It looks great! Awesome."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 16,
+        "polarity_score": 1,
+        "text": "It looks great! Well done!"
+    },
+    {
+        "classification": "positive",
+        "comment_id": 17,
+        "polarity_score": 0.5833333333333334,
+        "text": "It looks great! Looks decent."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 18,
+        "polarity_score": 0.6428571428571428,
+        "text": "It looks great! What you did was right."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 19,
+        "polarity_score": 1,
+        "text": "It looks great! Thumbs up."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 20,
+        "polarity_score": 1,
+        "text": "It looks great! Like it a lot!"
+    },
+    {
+        "classification": "positive",
+        "comment_id": 21,
+        "polarity_score": 0.85,
+        "text": "It looks great! Good work."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 22,
+        "polarity_score": 0.6666666666666666,
+        "text": "It looks great! Luckily you did it."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 23,
+        "polarity_score": 0.9,
+        "text": "It looks great! Proud of you."
+    },
+    {
+        "classification": "positive",
+        "comment_id": 24,
+        "polarity_score": 0.75,
+        "text": "It looks great! Enjoy!"
+    },
+    {
+        "classification": "positive",
+        "comment_id": 25,
+        "polarity_score": 0.75,
+        "text": "Love it. It looks great!"
+    }
+]
